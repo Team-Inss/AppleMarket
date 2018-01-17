@@ -15,6 +15,7 @@
 		0719BD10200C3F7300DA43EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0719BD0E200C3F7300DA43EE /* LaunchScreen.storyboard */; };
 		0719BD1B200C3F7300DA43EE /* AppleMarketTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0719BD1A200C3F7300DA43EE /* AppleMarketTests.swift */; };
 		0719BD26200C3F7300DA43EE /* AppleMarketUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0719BD25200C3F7300DA43EE /* AppleMarketUITests.swift */; };
+		07B7DA2E200F367E0047FC04 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 07B7DA2D200F367D0047FC04 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0719BD21200C3F7300DA43EE /* AppleMarketUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppleMarketUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0719BD25200C3F7300DA43EE /* AppleMarketUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleMarketUITests.swift; sourceTree = "<group>"; };
 		0719BD27200C3F7300DA43EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07B7DA2D200F367D0047FC04 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		0719BCF6200C3F7300DA43EE = {
 			isa = PBXGroup;
 			children = (
+				07B7DA2D200F367D0047FC04 /* README.md */,
 				0719BD01200C3F7300DA43EE /* AppleMarket */,
 				0719BD19200C3F7300DA43EE /* AppleMarketTests */,
 				0719BD24200C3F7300DA43EE /* AppleMarketUITests */,
@@ -237,6 +240,7 @@
 			files = (
 				0719BD10200C3F7300DA43EE /* LaunchScreen.storyboard in Resources */,
 				0719BD0D200C3F7300DA43EE /* Assets.xcassets in Resources */,
+				07B7DA2E200F367E0047FC04 /* README.md in Resources */,
 				0719BD08200C3F7300DA43EE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
