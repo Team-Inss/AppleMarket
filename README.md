@@ -10,3 +10,7 @@
 - 중고차 거래 앱을 참조하자.
 - 탭바 추가 확정 (구매,판매,설정)
 - App Icon
+
+## Notice
+- git push 시 프로젝트 설정에서 Team을 None으로 두고 push할 것!
+
